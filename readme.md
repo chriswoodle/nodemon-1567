@@ -1,4 +1,4 @@
-# See https://github.com/remy/nodemon/issues/1567
+See https://github.com/remy/nodemon/issues/1720
 
 # Setup
 Run from windows `cmd` or `git bash`
